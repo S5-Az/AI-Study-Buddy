@@ -95,10 +95,7 @@ study-buddy/
 - **`POST /api/summarize/:noteId`**: Trigger AI summary generation.
 - **`POST /api/quiz/generate/:noteId`**: Generate an MCQ quiz.
 ---
-## 🎯 Future Enhancements
-- User Authentication & Multi-user support.
-- Support for more file formats (DOCX, PPTX, Images via OCR).
-- Export summaries and quizzes to PDF.
-- Spaced repetition features for quizzes.
----
 
+![alt text](<Screenshot 2026-06-19 212105.png>)
+
+---
